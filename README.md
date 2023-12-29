@@ -1,2 +1,1 @@
-# Typescript-exercises
- Softuni cours
+<img src="TypeScript.jpeg" width="300">
